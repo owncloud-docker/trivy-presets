@@ -1,4 +1,7 @@
 # placeholder
+# gomplate
+# Not affected: https://github.com/hairyhenderson/gomplate/issues/1533
+CVE-2022-32149
 # guzzlehttp/guzzle
 # These CVE's are related to oC 10.10 core. As long as we build this version,
 # we need to ignore it in trivy.
