@@ -4,11 +4,13 @@
 CVE-2022-32149
 # Not affected: https://github.com/hairyhenderson/gomplate/issues/1608
 CVE-2022-41721
-# guzzlehttp/guzzle
 # These CVE's are related to oC 10.10 core. As long as we build this version,
 # we need to ignore it in trivy.
+## guzzlehttp/guzzle
 CVE-2022-29248
 CVE-2022-31042
 CVE-2022-31043
 CVE-2022-31090
 CVE-2022-31091
+## firebase/php-jwt
+CVE-2021-46743
