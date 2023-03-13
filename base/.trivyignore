@@ -14,3 +14,5 @@ CVE-2022-31090
 CVE-2022-31091
 ## firebase/php-jwt
 CVE-2021-46743
+# These CVE's are related to oC 10.11 core. As long as we build this version,
+# we need to ignore it in trivy.
