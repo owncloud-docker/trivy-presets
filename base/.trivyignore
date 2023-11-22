@@ -1,12 +1,1 @@
 # placeholder
-# gomplate
-# Not affected: https://github.com/hairyhenderson/gomplate/issues/1533
-CVE-2022-32149
-# Not affected: https://github.com/hairyhenderson/gomplate/issues/1608
-CVE-2022-41721
-# Not affected
-CVE-2023-32731
-# These CVE's are related to oC 10.11 core. As long as we build this version,
-# we need to ignore it in trivy.
-CVE-2023-27560
-CVE-2023-29197
